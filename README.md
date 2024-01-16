@@ -1,3 +1,3 @@
 # CollaborativeDraw
 
-A real time drawing tool developed using Node.js , Express & Socket.io .
+A real time collaborative drawing tool developed using Node.js , Express & Socket.io .
